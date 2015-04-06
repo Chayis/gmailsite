@@ -1,0 +1,1 @@
+GMailSite es un script que permite que uses tu cuenta de correo de Gmail para crear una página en la cuál se publicarán todos los archivos adjuntos de tus mensajes que esten guardados bajo alguna etiqueta en tu cuenta de correo.
